@@ -42,8 +42,8 @@
 
 ## Checklist de validation personnelle
 
-- [ ] Le module compile sans erreur ni warning
-- [ ] `insmod` charge le module sans erreur
+- [x] Le module compile sans erreur ni warning
+- [x] `insmod` charge le module sans erreur
 - [ ] `dmesg` affiche "Hello World!" au niveau debug après le chargement
 - [ ] `rmmod` décharge le module sans erreur
 - [ ] Le Makefile fonctionne avec le kernel actif (`uname -r`) sans modification
