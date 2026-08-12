@@ -29,7 +29,7 @@ Chaque tâche est documentée en détail : pas seulement le code final, mais le 
 ## Environnement de développement
 
 - **Distribution hôte :** Fedora (poste principal), DromOS Linux (LFS custom)
-- **Kernel de test :** 6.13.4-candriam (custom, compilé depuis les sources)
+- **Kernel de test :** 7.2.0-rc6-candriam-gc21bb4193868 (custom, compilé depuis les sources)
 - **Outils :** GCC, make, git, QEMU/VirtualBox/vagrant pour les tests isolés
 - **Documentation kernel de référence :** `Documentation/process/`, `Documentation/kbuild/` dans l'arbre source du noyau lui-même
 
